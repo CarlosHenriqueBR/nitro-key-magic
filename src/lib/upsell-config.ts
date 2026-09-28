@@ -12,7 +12,7 @@ export type UpsellConfig = {
 export const UPSELLS: Record<UpsellId, UpsellConfig> = {
   up1: {
     id: "up1",
-    amount: 42.89,
+    amount: 29.9,
     productName: "Taxa de Processamento Digital",
     nextUrl: "/icms",
   },

@@ -18,7 +18,7 @@ export const UPSELLS: Record<UpsellId, UpsellConfig> = {
   },
   icms: {
     id: "icms",
-    amount: 54.89,
+    amount: 19.9,
     productName: "Taxa de ICMS/ISS",
     nextUrl: "/up2",
   },
